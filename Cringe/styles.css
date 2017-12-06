@@ -1,0 +1,22 @@
+html {
+    background-image: url("http://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/blazers/images/yearinreview/16.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 40px;
+    color:#f44250;
+}
+h1 {
+    font-family:"Playfair Display";
+}
+.block {
+    position: absolute;
+    width:800px;
+}
+.block2 {
+    position: absolute;
+    width:300px;
+    left:70%;
+}
+img {
+    width: 300px;
+}
